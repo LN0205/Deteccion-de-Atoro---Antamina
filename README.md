@@ -1,6 +1,6 @@
 # Deteccion-de-Atoro---Antamina
 
-Este algoritmo tiene como objetivo detectar en qué momentos los filtros están atorados para 4 cámaras diferentes.
+Este algoritmo tiene como objetivo detectar en qué momentos los filtros están atorados para 4 cámaras diferentes mediante la aplicacion de tecnicas de ecualizacion, filtrado y compensacion de la iluminacion.
 
 Imagen Original:
 
