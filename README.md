@@ -1,4 +1,4 @@
-# Detecci-n-de-Atoro---Antamina
+# Deteccion-de-Atoro---Antamina
 
 Este algoritmo tiene como objetivo detectar en qué momentos los filtros están atorados para 4 cámaras diferentes.
 
@@ -12,4 +12,4 @@ Imagen Procesada:
 
 Resultado:
 
-<img src="https://github.com/user-attachments/assets/aea779ea-2e65-4550-97bc-2befe17e1500" alt="RESULT1_" width="110%">
+<img src="https://github.com/user-attachments/assets/aea779ea-2e65-4550-97bc-2befe17e1500" alt="RESULT1_" width="50%">
